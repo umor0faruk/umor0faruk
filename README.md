@@ -46,7 +46,7 @@
 
 <br/><br/>
 
-[![Faruk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faruk-757&show_icons=true)](https://github.com/Faruk-757)
+[![Faruk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umor0faruk&show_icons=true)](https://github.com/Faruk-757)
 
 <br/>
 
